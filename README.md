@@ -12,9 +12,11 @@
 
 ## Vibing이란?
 
-Vibing은 AI 코딩 도우미(Claude Code)를 누구나 쉽게 사용할 수 있도록 만든 데스크톱 앱입니다.
+Vibing은 AI 코딩 도우미(Claude Code)를 누구나 쉽게 사용할 수 있도록 만든 Windows 최적화 데스크톱 앱입니다.
 
 터미널이 낯선 분들도, 코딩이 처음인 분들도 — 아이디어만 있으면 AI와 함께 바로 시작할 수 있습니다.
+
+> Windows 환경에 최적화되어 있습니다. PowerShell 기반 터미널, winget 자동 설치 등 Windows 네이티브 경험을 제공합니다.
 
 ## 주요 기능
 
